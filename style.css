@@ -76,28 +76,6 @@ header {
   margin: 0 0 0 20px;
 }
 
-.cursor-detals {
-  display: flex;
-}
-
-.cursor-01 {
-  width: 15px;
-  height: 16px;
-  position: relative;
-  top: -34px;
-  left: 915px;
-  padding: 0.48px 0.25px 0.25px 0.44px;
-}
-
-.cursor-02 {
-  width: 15px;
-  height: 16px;
-  position: relative;
-  top: -25px;
-  left: 1070px;
-  padding: 0.48px 0.25px 0.25px 0.44px;
-}
-
 /*---------hero section----------*/
 
 .hero-01 {
@@ -132,12 +110,6 @@ header {
   line-height: 19.2px;
   letter-spacing: 0.2px;
   color: #ba8d5b;
-}
-
-.cursor-detals-02 i {
-  position: relative;
-  top: 6px;
-  left: 40px;
 }
 
 .hero-02 {
@@ -265,18 +237,6 @@ header {
   padding: 15px 24px 15px 24px;
   border-radius: 32px;
   background: #f7f7f5;
-}
-
-.cursor-03 {
-  position: relative;
-  top: 35px;
-  left: 280px;
-}
-
-.cursor-04 {
-  position: relative;
-  top: 15px;
-  left: 380px;
 }
 
 /*-------main-------*/
@@ -427,7 +387,7 @@ footer {
   border: 1px solid #6079874d;
   margin-top: 30px;
   position: relative;
-  left: 310px;
+  left: 330px;
 }
 
 .footer-bottom {
@@ -470,10 +430,4 @@ footer {
 .footer-phone {
   position: relative;
   left: 30px;
-}
-
-.cursor-05 {
-  position: relative;
-  top: 55px;
-  right: 480px;
 }
